@@ -2,6 +2,8 @@
 
 floating-hand is a simple jquery plugin to replace the standard cursor with a GIANT FLOATING HAND.
 
+![awesome floating hand](http://media.tumblr.com/8442c3cd3804ac76b28cd1c69fa382bc/tumblr_inline_mqhmln0nh21qz4rgp.jpg)
+
 ## Installation instructions
 
 Just simply include the js and the css in the zip file into your html file
