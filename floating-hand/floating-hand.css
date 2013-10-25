@@ -1,0 +1,19 @@
+#floating-hand {
+    background: url(floating-hand.png);
+    width:189px;
+    height:358px;
+    -webkit-transform-origin: 92px 5px;
+    transform-origin: 92px 5px;
+
+    position:fixed;
+    pointer-events:none;
+    z-index:99999;
+    background-size:100% 200%;
+}
+#floating-hand.active {
+    background-position: 0 100%;
+}
+
+* {
+    cursor: none !important;
+}
